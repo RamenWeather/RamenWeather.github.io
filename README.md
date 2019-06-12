@@ -1,2 +1,0 @@
-# ramenweather.github.io
-Website
